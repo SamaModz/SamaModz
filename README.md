@@ -1,5 +1,5 @@
-<div>
-    <a href="https://github.com/SamaModz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaModz&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamaModz&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/<div>
-</div>
+
+<p align=center>Hi, I'm Sama</p>
+<p align=center>› Don't talk to me, please! ‹</p>
+<br/>
+<a><img href="https://github.com/SamaModz.jpg"></a>
