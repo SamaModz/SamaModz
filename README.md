@@ -9,4 +9,3 @@
 💾 Disk:    512GB HD
 🪟 WM:      XFCE</code></pre>
 </fieldset>
-
