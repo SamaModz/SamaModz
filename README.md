@@ -1,12 +1,13 @@
 <fieldset>
   <legend><pre><code>neofetch</code></pre></legend>
-<pre><code>👤 Name:    SamaModz
-💻 OS:      NixOS 25.04
-🐚 Shell:    bash 5.3
-✍️ Editor:  Neovim 0.11.5
-📟 Term:    Kitty
-🧠 RAM:     16GB 
-💾 Disk:    1TB NVME
- 🪟 WM:      Hyprland</code></pre>
+<pre><code>
+      ___     nix-btw@0.0.0.0
+     (.. \    󰀲  NixOS
+     (<> |      Hyprland
+    //  \ \   󰍛  345/16GB
+   ( |  | /|  󰏔  176 (nix)
+  _/\ __)/_)  󰅶  Kitty
+  \/-____\/     Neovim 0.11.5
+</code></pre>
   I use NixOS, btw !
 </fieldset>
