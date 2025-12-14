@@ -1,6 +1,6 @@
 <fieldset>
   <legend><pre><code>nerdfetch</code></pre></legend>
-<pre><code>      ___     nix-btw@0.0.0.0
+<pre><code>      ___       nix-btw@0.0.0.0
      (.. \      NixOS
      (<> |      Hyprland
     //  \ \     345/16GB
